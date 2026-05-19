@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/luis-a-corea-n-565471309/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luis-corea-nu%c3%b1ez-565471309/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/luis-a-corea-n-565471309/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luis-corea-nu%c3%b1ez-565471309/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
