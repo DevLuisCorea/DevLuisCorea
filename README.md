@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [Wuilio Project](https://wuilio-ebon.vercel.app/)
 
-- 🤝 I’m looking for help with **Finanzas BTIBM**
+- 🤝 I’m looking for help with [**Finanzas BTIBM**](https://finanzas-btibm.vercel.app/)
 
 - 📫 How to reach me **icoreanuez@gmail.com**
 
